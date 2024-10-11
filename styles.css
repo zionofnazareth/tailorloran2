@@ -36,11 +36,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color:purple;
+    color:white;
     padding: 20px;
-    margin-top: 50px;
+    margin-top: 100px;
     margin-left: -30px;
-    background-color: black;
+   
   }
   .navbar h2 {
     margin-left: 20px;
@@ -61,7 +61,7 @@
     line-height: 1;
     font-weight: bold;
     list-style: none;
-    color: purple;
+    color: white;
   }
   
   .navbar ul li a:hover {
